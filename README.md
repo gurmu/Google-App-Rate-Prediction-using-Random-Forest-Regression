@@ -1,4 +1,4 @@
-# Google-App-Rate-Pridiction-using-Random-Forest-Regression
+# Google-App-Rate-Prediction-using-Random-Forest-Regression
 
 About this Dataset
 Context
